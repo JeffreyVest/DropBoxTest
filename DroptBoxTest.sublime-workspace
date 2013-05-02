@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"access_token"
+			],
+			[
+				"req",
+				"request_token"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"cho",
+				"chosenImg"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1192,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "node_modules/dbox/lib/dbox.js",
+			"settings":
+			{
+				"buffer_size": 18377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/dbox/lib/helpers.js",
+			"settings":
+			{
+				"buffer_size": 4074,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/DropboxChooserTest.html",
+			"settings":
+			{
+				"buffer_size": 672,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"r",
+				"File: Rename"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"ip",
+				"Package Control: List Packages"
+			],
+			[
+				"ssc",
+				"Set Syntax: C#"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 317.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jvest/Dropbox/node/DropBoxTest/public/Test.html",
+		"/C/Users/jvest/Dropbox/node/DropBoxTest/package.json",
+		"/C/Users/jvest/Dropbox/node/DropBoxTest/node_modules/dropbox/lib/dropbox.js",
+		"/C/Users/jvest/Dropbox/node/DropBoxTest/node_modules/dropbox/package.json",
+		"/C/node/DropBoxTest/app.js",
+		"/C/node/DropBoxTest/public/styles.css",
+		"/C/node/DropBoxTest/public/script.js",
+		"/C/node/DropBoxTest/public/Test.html",
+		"/C/node/DropBoxTest/package.json",
+		"/C/Users/jvest/Dropbox/Tab Memory Usage.md",
+		"/C/Users/jvest/Dropbox/Dillinger_Notes.txt",
+		"/C/Users/jvest/Dropbox/Multithreaded_Deadlock.md",
+		"/C/Users/jvest/Dropbox/Memory_Management_in_WPF.md",
+		"/C/Dev/Atlas/Trunk/src/BSTGlobal.Framework/Core/DOM/Documents/RootDocument.cs",
+		"/C/Dev/Novo/Trunk/src/NovoSmartClient.Infrastructure/TabWindows/TabWindow.xaml.cs",
+		"/C/Dev/Atlas/Trunk/src/BSTGlobal.Framework/DocumentActivities/Document.cs",
+		"/C/Dev/TrunkSource.sublime-project",
+		"/C/Dev/Tab Memory Optimization",
+		"/C/Users/jvest/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/test",
+		"/C/test.xml",
+		"/C/Dev/Novo/Trunk/src/Models/Smart Client/ProjectSetup/ProjectExtended.xdlayout",
+		"/C/Dev/Novo/Trunk/src/Models/Smart Client/ProjectSetup/ProjectSetup.xdproj",
+		"/C/Users/jvest/Documents/GitHub/snoopwpf/Snoop/PropertyInspector.xaml.cs",
+		"/C/Dev/Novo/Trunk/src/Models/Security/SecurityVirtualDocs/MyCompanies.xd",
+		"/C/Dev/Novo/Trunk/src/Models/Security/Responsibilities/Users.xdresp",
+		"/C/Dev/Novo/Trunk/src/Models/Smart Client/SmartClientResponsibilities/CustomUIResponsibility.xdresp",
+		"/C/Dev/Novo/Trunk/src/Models/Smart Client/ProjectSetup/ProjectSimple.xdlayout",
+		"/C/Dev/Novo/Trunk/src/Models/Smart Client/ProjectSetup/ProjectDefault.xdlayout",
+		"/C/Dev/Novo/Trunk/src/Models/Core/CoreLayouts/Bill.xdlayout",
+		"/C/Dev/Novo/Trunk/src/Models/Smart Client/ProjectSetup/ProjectBillTermsList.xdlayout",
+		"/C/Dev/Atlas/Trunk/src/BSTGlobal.Framework/AdSyncService/App.config",
+		"/C/Dev/Atlas/Trunk/src/BSTGlobal.Framework/AuditService/app.config",
+		"/C/Dev/Atlas/Trunk/src/BSTGlobal.Framework/BSTGlobal.Reporting/app.config",
+		"/C/Dev/Atlas/Trunk/src/BSTGlobal.Framework/PublishingService/app.config",
+		"/C/Dev/Atlas/Trunk/src/BSTGlobal.Framework/Service/App.config",
+		"/C/Dev/Atlas/Trunk/src/BSTGlobal.Framework/TransactionProcessorService/app.config",
+		"/C/Dev/Atlas/Trunk/extras/ProjectDocumentModel/App.Config",
+		"/C/Dev/Atlas/Trunk/extras/BIConfigurationManager/DataAccess/ConfigurationContext.edmx"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"*.xdlayout",
+			"",
+			"C:\\Dev\\Atlas\\Trunk\\src\\BSTGlobal.Framework",
+			"app.config",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sandbox",
+			"sandbox access",
+			"dropboxclient",
+			"exports",
+			"dropboxclient()",
+			"dropboxclient",
+			"        <img id=\"chosenImg\" />\n",
+			"tasks<",
+			"c250d87d-6696-4f5c-9283-afe43c8dc470",
+			"13c34580-0349-4bb8-b494-3be11c5ea95c",
+			"projectsimple",
+			"ce6acae7-efdd-49f5-9d31-64c188ea8cf4",
+			"c4a0dbda-992f-4ed9-87a8-6fdd0d383633",
+			"debug",
+			"Default",
+			"Data Source",
+			"app.config",
+			"6c111b03-a539-4bb8-a3ad-25341988dd42,e91b1121-798c-4792-b511-f9a198dd14a6,bc7bf772-f102-4cd7-9e9b-e3aa4fdb0d9f",
+			"pv-novoapp1",
+			"asdf",
+			"pv-novoapp1",
+			"novoapp1",
+			"pv-novoapp1",
+			"pv-",
+			"ProjectDefault",
+			"hello",
+			"mon",
+			"fri",
+			"mon tue wed thu fri",
+			"\"mon\"\n\"tue\"\n\"wed\"\n\"thu\"\n\"fri\"\n\"sat\"\n\"sun\"\n",
+			"\"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pv-devshared9"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "node_modules/dbox/lib/dbox.js",
+					"settings":
+					{
+						"buffer_size": 18377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12381,
+								12381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6038.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "node_modules/dbox/lib/helpers.js",
+					"settings":
+					{
+						"buffer_size": 4074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3834,
+								3834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/DropboxChooserTest.html",
+					"settings":
+					{
+						"buffer_size": 672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								672
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 471.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rootdo",
+				"src/BSTGlobal.Framework/Core/DOM/Documents/RootDocument.cs"
+			],
+			[
+				"tabwin",
+				"src/NovoSmartClient.Infrastructure/TabWindows/TabWindow.xaml.cs"
+			],
+			[
+				"document",
+				"src/BSTGlobal.Framework/DocumentActivities/Document.cs"
+			],
+			[
+				"projectextended",
+				"src/Models/Smart Client/ProjectSetup/ProjectExtended.xdlayout"
+			],
+			[
+				"projectsetup",
+				"src/Models/Smart Client/ProjectSetup/ProjectSetup.xdproj"
+			],
+			[
+				"projsimple",
+				"src/Models/Smart Client/ProjectSetup/ProjectSimple.xdlayout"
+			],
+			[
+				"projectex",
+				"src/Models/Smart Client/ProjectSetup/ProjectExtended.xdlayout"
+			],
+			[
+				"projectdefault",
+				"src/Models/Smart Client/ProjectSetup/ProjectDefault.xdlayout"
+			],
+			[
+				".xdlayout",
+				"Trunk/src/Models/Core/CoreLayouts/Bill.xdlayout"
+			],
+			[
+				"frameworkserviceapp.config",
+				"Trunk/src/BSTGlobal.Framework/Service/App.config"
+			],
+			[
+				"projectsim",
+				"Trunk/src/Models/Smart Client/ProjectSetup/ProjectSimple.xdlayout"
+			],
+			[
+				"projectbilltermslist.xdlayout",
+				"Trunk/src/Models/Smart Client/ProjectSetup/ProjectBillTermsList.xdlayout"
+			],
+			[
+				"app.config",
+				"Trunk/extras/ProjectDocumentModel/App.Config"
+			],
+			[
+				"config",
+				"Trunk/extras/BIConfigurationManager/DataAccess/ConfigurationContext.edmx"
+			],
+			[
+				"project.proj",
+				"ProjectSetup/ProjectSetup.xdproj"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Dev/TrunkSource.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,11 @@
+/*#mainDiv
+{
+    max-width: 30em;
+}
+*/
+#chosenImg
+{
+    width: 30em;
+    max-width: 100%;
+}
+
